@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Full Stack
 - 🌱 Estudando PHP
-- 📫 Contate-me por pedroh.shipolito@gmail.com  
 - 😄 Pronomes: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSilverio&show_icons=true&theme=react&locale=pt-br&card_width=550)
